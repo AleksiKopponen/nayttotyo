@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NayttoTyo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba15b33f2c7f6fd7c804f1db832bb1edd510630f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c783fd31372919524f14173601f4573a9341920e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NayttoTyo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NayttoTyo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
